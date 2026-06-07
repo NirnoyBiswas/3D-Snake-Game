@@ -52,4 +52,3 @@ The project structures its workflow into a clean framework handling distinct eng
  * PLAYING: Actively triggers time updates, entity movement logic calculations, physics evaluation updates, and object collisions.
  * PAUSED: Suspends updating element timelines (including double point counters and bomb lifespans) until execution resumes.
  * GAME_OVER: Renders your final score metric screen overlay with an instant option to drop back to menu initialization pools.
- * 
